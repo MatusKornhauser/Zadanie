@@ -1,4 +1,4 @@
-## Zadanie: Pracovný pohovor
+## Zadanie PL/SQL
 __________
 Mojou úlohou bolo navrhnúť a implementovať riešenie pre problém kde chceme vrátiť celkový výnos(čiastku).
 Pre vyriešenie problému som mal použiť PL/SQL. 
